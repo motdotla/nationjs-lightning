@@ -1,7 +1,7 @@
 {
   "name": "nationjs-lightning",
   "version": "1.0.0",
-  "description": "Demo application for [NationJS](http://nationjs.com/)'s lightning talk given November 2014.",
+  "description": "Demo application for NationJS lightning talk - given November 2014.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
